@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kingstar.suradeq",
+      "sha256_cert_fingerprints": [
+        "4C:AB:EC:1D:DC:F1:DA:39:08:2C:43:31:B1:8D:08:A0:03:4C:9E:9F:42:37:61:B0:4A:9B:75:19:CB:A3:6C:C1"
+      ]
+    }
+  }
+]
